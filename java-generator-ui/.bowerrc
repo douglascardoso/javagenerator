@@ -1,0 +1,6 @@
+{
+  "directory": "app/bower_components",
+  "proxy": "http://proxy.cinq.com.br:3128",
+  "https-proxy": "http://proxy.cinq.com.br:3128"
+}
+

@@ -1,0 +1,21 @@
+{
+  "name": "java-generator-ui",
+  "description": "",
+  "main": "app/index.js",
+  "authors": [
+    "douglas <douglasmeireles@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/douglascardoso/javagenerator.gi",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.9"
+  }
+}

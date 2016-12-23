@@ -1,0 +1,24 @@
+[
+  {
+    "groupId" : "org.springframework.boot",
+    "artifactId" : "spring-boot-starter-jersey"
+  },
+  {
+    "groupId" : "org.springframework.boot",
+    "artifactId" : "spring-boot-starter-aop"
+  },
+  {
+    "groupId" : "org.springframework.boot",
+    "artifactId" : "spring-boot-starter-cloud-connectors"
+  },
+  {
+    "groupId" : "org.springframework.boot",
+    "artifactId" : "spring-boot-devtools",
+    "scope" : "runtime"
+  },
+  {
+    "groupId" : "org.springframework.boot",
+    "artifactId" : "spring-boot-starter-test",
+    "scope" : "test"
+  }
+]

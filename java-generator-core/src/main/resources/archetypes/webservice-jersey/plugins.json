@@ -1,0 +1,11 @@
+[
+  {
+    "groupId" : "org.springframework.boot",
+    "artifactId" : "spring-boot-maven-plugin",
+    "executions" : [
+      {
+        "goals" : ["repackage"]
+      }
+    ]
+  }
+]
